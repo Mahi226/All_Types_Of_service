@@ -23,6 +23,9 @@
 
     }
 
+    *{
+        font-family: "Trebuchet MS";
+    }
 
 
     .box1-nav-items {
@@ -45,7 +48,7 @@
     .nav-logo-text {
         font-size: 60px;
         margin-top: 18px ;
-        font-family: Cursive;
+        font-family: "Cursive";
 
     }
 
@@ -518,7 +521,7 @@
     .query-text-home-page {
         text-align: center;
         margin-top: 40px;
-        font-family: "Cursive";
+        font-family:Cursive;
         font-weight: bold;
     }
     .home-page-box2 {
@@ -720,6 +723,14 @@
 
     }
 
+    .query-text-home-page {
+        margin-bottom:10px;
+        font-family: "Cursive";
+        font-weight: bold;    
+        text-align: center; 
+        font-size:50px; 
+        margin:15px;
+    }
 
 
     .home-page-logo {
