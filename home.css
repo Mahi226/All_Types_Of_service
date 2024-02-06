@@ -23,9 +23,6 @@
 
     }
 
-    *{
-        font-family: "Trebuchet MS";
-    }
 
 
     .box1-nav-items {
@@ -47,9 +44,7 @@
 
     .nav-logo-text {
         font-size: 60px;
-        margin-top: 18px ;
-        font-family: "Cursive";
-
+        margin-top: 18px;
     }
 
 
@@ -335,8 +330,7 @@
 
     .query-text-home-page {
         margin-bottom:10px;
-        font-family: "Cursive";
-        font-weight: bold;    
+        font-weight:bold;    
         text-align: center; 
         font-size:50px; 
         margin:15px;
@@ -513,7 +507,7 @@
     }
     .image_1{
         height:80px;
-        width: 250px;
+        width: 260px;
         margin: 10px    ;
 
     }
@@ -521,8 +515,7 @@
     .query-text-home-page {
         text-align: center;
         margin-top: 40px;
-        font-family:Cursive;
-        font-weight: bold;
+        font-weight:bold;
     }
     .home-page-box2 {
         display: flex;
@@ -567,8 +560,7 @@
     }
 
     .text-font{
-        font-family: "monospace";
-        font-weight: bold;
+        font-weight:bold;
         font-size: 26px;
 
     }    
